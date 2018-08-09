@@ -1,0 +1,26 @@
+body{
+	background-color: #eee;
+}
+.imag-slide{
+	margin-top: 0px;
+
+}
+.navbar-a{
+	color:#222;
+}
+.navbar-a:hover{
+	font-weight: bold;
+	text-decoration: none;
+}
+.navbar-nav li:hover{
+	font-weight: bold;
+}
+.navbar{
+	margin-bottom: 3px;
+	margin-top:5px;
+}
+.navbar-default{
+	border-width: 0px;
+	box-shadow: 0px 1px 0px gray;
+	background-color:white;
+}
